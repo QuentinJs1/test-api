@@ -1,0 +1,25 @@
+{
+  "name": "api-node",
+  "version": "0.0.1",
+  "description": "API permettant la gestion des différents Microservices et effectuant le lien avec l'application front Svelte.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/retrodoc/api-node.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Quentin Chaignaud, Mathieu Lê-Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/retrodoc/api-node/issues"
+  },
+  "homepage": "https://gitlab.com/retrodoc/api-node#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
